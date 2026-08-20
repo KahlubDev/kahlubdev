@@ -21,7 +21,7 @@ LinkedIn: [caleb-mwangi](https://www.linkedin.com/in/caleb-mwangi-9b3a133a9)
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kahlubdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kahlubdev&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kahlubdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
