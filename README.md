@@ -19,15 +19,6 @@ JavaScript · TypeScript · PHP · Rust · SQL · React · Node · Django · AWS
 Portfolio: [kahlubdev.github.io](https://kahlubdev.github.io/)  
 LinkedIn: [caleb-mwangi](https://www.linkedin.com/in/caleb-mwangi-9b3a133a9)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kahlubdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kahlubdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kahlubdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kahlubdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=kahlubdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
