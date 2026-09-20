@@ -18,4 +18,4 @@ JavaScript · TypeScript · PHP · Rust · SQL · React · Node · Django · AWS
 **Contact**  
 Portfolio: [kahlubdev.github.io](https://kahlubdev.github.io/)  
 LinkedIn: [caleb-mwangi](https://www.linkedin.com/in/caleb-mwangi-9b3a133a9)
-offline A. I 
+offline 
