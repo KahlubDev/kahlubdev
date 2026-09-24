@@ -23,5 +23,3 @@ deux
 trois
 quart
 canq
-cis
-cet
