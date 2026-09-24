@@ -22,4 +22,3 @@ un
 deux
 trois
 quart
-canq
