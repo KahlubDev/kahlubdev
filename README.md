@@ -26,4 +26,3 @@ canq
 cis
 cet
 hui
-nerf
