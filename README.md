@@ -1,3 +1,4 @@
+
 ### Caleb Njogu
 
 Full-stack developer based in Kenya. I build web applications and backend systems with a focus on practical security and clean delivery.
@@ -18,3 +19,4 @@ JavaScript · TypeScript · PHP · Rust · SQL · React · Node · Django · AWS
 **Contact**  
 Portfolio: [kahlubdev.github.io](https://kahlubdev.github.io/)  
 LinkedIn: [caleb-mwangi](https://www.linkedin.com/in/caleb-mwangi-9b3a133a9)
+music 
