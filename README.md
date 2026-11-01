@@ -23,4 +23,3 @@ We
 are
 the 
 chosen 
-people 
