@@ -23,4 +23,3 @@ baba
 amesema 
 ndio 
 nani 
-akatae
